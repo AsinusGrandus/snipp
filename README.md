@@ -1,5 +1,5 @@
 # snipp - a simple snippingtool
-Windows 11 broke it's snipping tool, so I made this to (temporarily) replace it.
+Windows 11 broke its snipping tool, so I made this to (temporarily) replace it.
 
 # how to use
 Let's say you want to take a screenshot from a specific area:
